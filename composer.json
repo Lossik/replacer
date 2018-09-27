@@ -1,0 +1,20 @@
+{
+	"name": "lossik/replacer",
+	"type": "library",
+	"license": [
+		"MIT"
+	],
+	"authors": [
+		{
+			"name": "Petr Losse"
+		}
+	],
+	"require": {
+		"php": ">=7.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"Lossik\\Replacer\\": "src"
+		}
+	}
+}
